@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Background properties</title>
+<style>
+body { background-color : ligtpink; } 
+h1 { border:2px solid blue;
+padding : 10px; }
+
+p { background-image: url("Flower.jpg");color:white; }
+</style>
+</head>
+<body>
+<h1> This is my web page </h1>
+<p> This paragraph has background image <br> and the body has lightpink
+color. This webpage has set background color lightpink to body
+& only paragraph has background image also heading has border
+with solid blue colored.
+</p>
+</body>
+</html>
